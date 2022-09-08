@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my Github - I use this to work on personal projects around data analysis, data science and coding :)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning the foundations of data science
 - 👯 I’m looking to collaborate on ...
