@@ -1,1 +1,3 @@
-This is work I`ve done in virtual internships, mainly via Forage
+### Virtual Internships
+
+😄 Welcome to my VI section! - This consists of work I`ve done in virtual internships, mainly via Forage
